@@ -1,8 +1,5 @@
 # GitHub Actions Fundamentals
 
-prova
-prova 2 
-
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
